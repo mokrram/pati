@@ -1,0 +1,61 @@
+.header img{
+    width: 50px;
+    height: auto;
+}
+.header{
+    background-color: yellowgreen;
+}
+.header p {
+font-size: 40px;
+}
+.header h3 {
+    font-size: 30px;
+    color: honeydew;
+    }
+.benar{
+    background-image: url(./img/birani.jpg ) ;
+    background-position: center;
+    
+    
+    width:auto ;
+    height: 330px;
+}
+.benar h1{
+    margin-top: 40px;
+    background-color: rgb(53, 112, 106);
+    display: inline-block;
+    padding: 6px 30px;
+    border-radius: 20px;
+    color: white;
+
+}
+.benar p{
+   
+   
+    background-image: url(./img/IMG_0311.JPG);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 500px;
+    height: 273px;
+    margin: auto;
+   
+
+}
+.benar img {
+    width: 500px;
+    height: 273px;
+    margin: auto;
+}
+.card-header h1 {
+    color: rgb(255, 8, 0);
+    font-style: italic;
+    padding: 31px;
+    margin-top: 92px;
+    
+}
+.about h4 strong {
+color: rgb(0, 67, 252);
+width: 700px;
+
+}
